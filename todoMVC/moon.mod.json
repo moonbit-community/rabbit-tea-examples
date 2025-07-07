@@ -2,7 +2,7 @@
   "name": "Yoorkin/example-todoMVC",
   "version": "0.0.1",
   "deps": {
-    "Yoorkin/rabbit-tea": "0.9.6"
+    "Yoorkin/rabbit-tea": "0.9.7"
   },
   "readme": "README.md",
   "license": "Apache-2.0"
