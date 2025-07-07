@@ -1,0 +1,15 @@
+{
+    "is-main": true,
+    "import": [
+      {
+        "path": "Yoorkin/rabbit-tea",
+        "alias": "tea"
+      },
+      { 
+        "path":"Yoorkin/rabbit-tea/html", 
+        "alias": "html"
+      },
+      "Yoorkin/rabbit-tea/svg",
+      "Yoorkin/rabbit-tea/variant"
+    ]
+}
