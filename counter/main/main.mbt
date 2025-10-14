@@ -36,7 +36,8 @@ fn view(model : Model) -> Html[Msg] {
   ])
 }
 
-///| NOTE: This program is only available in the js backend, 
+///|
+/// NOTE: This program is only available in the js backend, 
 /// see README.md to getting started.
 fn main {
   let model = 0
